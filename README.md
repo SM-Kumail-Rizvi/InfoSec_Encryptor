@@ -4,15 +4,6 @@ A Python-based encryption and decryption tool featuring AES, DES, and RSA algori
 
 ---
 
-## Project Structure
-
-```
-├── encryption_app.py       # Main Python application file with encryption code and Gradio UI
-├── requirements.txt        # Required Python packages
-```
-
----
-
 ## Getting Started
 
 Follow these steps to set up and run the project locally.
